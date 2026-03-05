@@ -1,3 +1,4 @@
+![](gitcode-logo.png)
 # Git Commands Cheat Sheet
 
 ## Initialize Repository
